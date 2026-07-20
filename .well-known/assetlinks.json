@@ -3,6 +3,6 @@
   "target": {
     "namespace": "android_app",
     "package_name": "com.nerdpixel.gestor",
-    "sha256_cert_fingerprints": ["84:C2:FA:3A:15:19:10:F1:F4:DE:58:C4:23:EA:FE:0D:6F:5D:C3:8C:0D:DA:D3:58:EE:50:B0:61:E0:5C:E7:90"]
+    "sha256_cert_fingerprints": ["81:01:18:EA:D5:68:BE:32:95:32:9C:4A:0B:61:D8:AA:AA:C7:3D:7A:D5:46:AB:70:4E:56:04:B3:69:F3:C9:37"]
   }
 }]
